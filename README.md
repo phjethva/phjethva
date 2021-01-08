@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of experience!
+
 <!--
 **phjethva/phjethva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
