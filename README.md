@@ -22,10 +22,10 @@ Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of expe
 </p>
 
 <h4>If you like what I do, you could be consider buying me a coffee here!</h4>
-<a href="https://medium.com/@pratikjethva" target="_blank">
+<a href="https://www.paypal.com/paypalme/phjethva" target="_blank">
     <img align="left" alt="Pratik Jethva | PayPal" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"/></a>
-<a href="https://medium.com/@pratikjethva" target="_blank">
-    <img align="left" alt="Pratik Jethva | PayPal" width="30px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/paypal.svg"/></a>
+<a href="https://www.paypal.com/paypalme/phjethva" target="_blank">
+    <img align="left" alt="Pratik Jethva | PayPal" width="50px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/paypal.svg"/></a>
 
 <!--
 **phjethva/phjethva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
