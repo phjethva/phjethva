@@ -21,7 +21,7 @@ Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of expe
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
-**If you like what I do, you could be consider buying me a coffee here!**
+##### If you like what I do, you could be consider buying me a coffee here!
 <a href="https://medium.com/@pratikjethva" target="_blank">
     <img align="left" alt="Pratik Jethva | PayPal" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"/></a>
 <a href="https://medium.com/@pratikjethva" target="_blank">
