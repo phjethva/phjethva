@@ -1,4 +1,4 @@
-### Hi there, Welcome to my profile! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="25px">
+### Hi there, Welcome to my profile! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="30px">
 <a href="https://www.linkedin.com/in/phjethva/">
   <img align="left" alt="Pratik Jethva | LinkedIN" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/linkedin.svg" />
 </a>
@@ -14,7 +14,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=phjethva.phjethva)
 
-Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of experience from India!
+Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of experience from <img src="https://image.flaticon.com/icons/svg//330/330439.svg" width="13"/> <b>Ahmedabad, India</b>
+
+<h3>I code with</h3>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f89820?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-42a5f5?style=flat-square&logo=flutter&logoColor=white" />
+</p>
 
 <!--
 **phjethva/phjethva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
