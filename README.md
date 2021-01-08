@@ -1,16 +1,12 @@
 ### Hi there, Welcome to my profile! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="30px">
 <a href="https://medium.com/@pratikjethva">
-  <img align="left" alt="Pratik Jethva | Medium" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/medium.svg" />
-</a>
+  <img align="left" alt="Pratik Jethva | Medium" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/medium.svg" /></a>
 <a href="https://www.linkedin.com/in/phjethva/">
-  <img align="left" alt="Pratik Jethva | LinkedIN" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/linkedin.svg" />
-</a>
+  <img align="left" alt="Pratik Jethva | LinkedIN" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/linkedin.svg" /></a>
 <a href="https://twitter.com/PratikJethva">
-  <img align="left" alt="Pratik Jethva | Twitter" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/twitter.svg" />
-</a>
+  <img align="left" alt="Pratik Jethva | Twitter" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/twitter.svg" /></a>
 <a href="https://www.youtube.com/channel/UCXEwGsaOjSYgZqCHgowgv1w">
-  <img align="left" alt="Pratik Jethva | Youtube" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/youtube.svg" />
-</a>
+  <img align="left" alt="Pratik Jethva | Youtube" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/youtube.svg" /></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=phjethva.phjethva)
 
@@ -25,10 +21,11 @@ Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of expe
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
-<p>**If you like what I do, you could be consider buying me a** <a href="https://www.paypal.com/paypalme/phjethva" target="_blank"><img src="https://media.giphy.com/media/3o7btMjNUTJFUhsnrG/giphy.gif" width="20"/>**with PayPal!**</a>
-</p>
-
-<p>**If you like what I do, you could be consider buying me a** <img src="https://media.giphy.com/media/3o7btMjNUTJFUhsnrG/giphy.gif" width="20px"> **with PayPal!** <a href="https://www.paypal.com/paypalme/phjethva"><img align="right" alt="Pratik Jethva | PayPal" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/paypal.svg" /></a>**.**</p>
+**If you like what I do, you could be consider buying me a coffee here!**
+<a href="https://medium.com/@pratikjethva" target="_blank">
+    <img align="left" alt="Pratik Jethva | PayPal" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"/></a>
+<a href="https://medium.com/@pratikjethva" target="_blank">
+    <img align="left" alt="Pratik Jethva | PayPal" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/paypal.svg"/></a>
 
 <!--
 **phjethva/phjethva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
