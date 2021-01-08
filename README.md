@@ -12,6 +12,11 @@
 
 Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of experience from <img src="https://image.flaticon.com/icons/svg//330/330439.svg" width="13"/> <b>Ahmedabad, India</b>
 
+- 🔭 I’m currently working on Android & Flutter mobile app development.
+- 🌱 I’m currently learning Ktor for server side development.
+- 💬 Want to create app? mail me @pratikjethva@zohomail.in
+- 📫 How to reach me: Skype @phjethva
+
 <h3>I code with:</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=java&logoColor=white" />
@@ -21,7 +26,7 @@ Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of expe
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
 </p>
 
-<h3>Checkout my Flutter work</h3>
+<h3>Checkout my Flutter work:</h3>
 <a href="https://github.com/potterTheCoder" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
@@ -30,18 +35,3 @@ Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of expe
     <img align="left" alt="Pratik Jethva | PayPal" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"/></a>
 <a href="https://www.paypal.com/paypalme/phjethva" target="_blank">
     <img align="left" alt="Pratik Jethva | PayPal" width="42px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/paypal.svg"/></a>
-
-<!--
-**phjethva/phjethva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
