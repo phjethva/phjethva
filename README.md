@@ -12,11 +12,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=phjethva.phjethva)
 
-Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of experience from <img src="https://image.flaticon.com/icons/svg//330/330439.svg" width="13"/> <b>Ahmedabad, India</b>
+Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of experience from <img src="https://image.flaticon.com/icons/svg//330/330439.svg" width="15"/> <b>Ahmedabad, India</b>
 
 - 🔭 I’m currently working on Android & Flutter mobile app development.
 - 🌱 I’m currently learning Ktor for server side development.
-- 💬 How to reach me: <img src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/skype.svg" width="20px"> @phjethva
+- 💬 How to reach me: <img src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/skype.svg" width="15"> @phjethva
 - 📫 Want to create app? mail me your requirements at: pratikjethva@zohomail.in
 
 <h3>I code with:</h3>
