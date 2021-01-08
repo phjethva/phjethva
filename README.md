@@ -5,6 +5,8 @@
   <img align="left" alt="Pratik Jethva | LinkedIN" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/linkedin.svg" /></a>
 <a href="https://twitter.com/PratikJethva">
   <img align="left" alt="Pratik Jethva | Twitter" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/twitter.svg" /></a>
+<a href="https://www.instagram.com/pratikjethva">
+  <img align="left" alt="Pratik Jethva | Instagram" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/instagram.svg" /></a>
 <a href="https://www.youtube.com/channel/UCXEwGsaOjSYgZqCHgowgv1w">
   <img align="left" alt="Pratik Jethva | Youtube" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/youtube.svg" /></a>
 
@@ -14,8 +16,8 @@ Hi, I am Pratik Jethva. I am a mobile application developer with 5 years of expe
 
 - 🔭 I’m currently working on Android & Flutter mobile app development.
 - 🌱 I’m currently learning Ktor for server side development.
-- 💬 Want to create app? mail me @pratikjethva@zohomail.in
-- 📫 How to reach me: Skype @phjethva
+- 💬 How to reach me: <img src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/skype.svg" width="20px"> @phjethva
+- 📫 Want to create app? mail me your requirements at: pratikjethva@zohomail.in
 
 <h3>I code with:</h3>
 <p>
