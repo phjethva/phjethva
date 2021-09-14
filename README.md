@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/channel/UCXEwGsaOjSYgZqCHgowgv1w">
   <img align="left" alt="Pratik Jethva | Youtube" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/youtube.svg" /></a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=phjethva.phjethva)
+![Profile Visitors](https://gpvc.arturio.dev/phjethva)
 
 Hi, I am **Pratik Jethva**. I am a mobile application engineer with 5 years of experience from <img src="https://image.flaticon.com/icons/svg//330/330439.svg" width="15"/> <b>Ahmedabad, India</b>
 
