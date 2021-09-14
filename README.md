@@ -31,13 +31,7 @@ Hi, I am **Pratik Jethva**. I am a mobile application engineer with 5 years of e
 </p>
 
 ## ✍️ I code with:
-  <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f89820?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0075ba?style=flat-square&logo=dart&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-42a5f5?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-29BEB0?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=java&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f89820?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" /> <img alt="Dart" src="https://img.shields.io/badge/-Dart-0075ba?style=flat-square&logo=dart&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-42a5f5?style=flat-square&logo=flutter&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" /> <img alt="Go" src="https://img.shields.io/badge/-Go-29BEB0?style=flat-square&logo=go&logoColor=white" />
 
 ## 💻 Checkout my Flutter work:
 <a href="https://github.com/potterTheCoder" target="_blank">
