@@ -12,10 +12,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=phjethva.phjethva)
 
-Hi, I am **Pratik Jethva**. I am a mobile application developer with 5 years of experience from <img src="https://image.flaticon.com/icons/svg//330/330439.svg" width="15"/> <b>Ahmedabad, India</b>
+Hi, I am **Pratik Jethva**. I am a mobile application engineer with 5 years of experience from <img src="https://image.flaticon.com/icons/svg//330/330439.svg" width="15"/> <b>Ahmedabad, India</b>
 
 - 🔭 I’m currently working on Android & Flutter mobile app development.
-- 🌱 I’m currently learning Ktor for server side development.
+- 🌱 I’m currently learning Go language for backend development.
 - 💬 How to reach me: <img src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/skype.svg" width="15"> *phjethva*
 - 📫 Need an app? Mail me your requirements at: pratikjethva@zohomail.in
 - 🙏🏼 My little contribution to **AatmaNirbharBharat**: <a href="https://play.google.com/store/apps/details?id=io.pjetapps.vocalforlocalindia" target="_blank"><img src="https://play-lh.googleusercontent.com/7gJP3lWo2dZppI-3kYSOm5mOL0AH2uO7JhvXCnESZkyLAEg4nIdUhyPcfRKEz6c4czA=s180-rw" width="15"/> Vocal For Local - India</a>
