@@ -12,7 +12,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/phjethva)
 
-Hi, I am **Pratik Jethva**. I am a mobile app developer, Android, FLutter with 5 years of experience from <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> <b>Ahmedabad, India</b>
+Hi, I am **Pratik Jethva**. I am a mobile app developer, Android, Flutter with 5 years of experience from <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> <b>Ahmedabad, India</b>
 
 - 🌐 Checkout my website built in FlutterWeb here: https://phjethva.github.io/
 - 🔭 I’m currently working on Android & Flutter mobile app development.
