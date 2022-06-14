@@ -1,4 +1,4 @@
-### Hi there, Welcome to my profile! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="30px">
+### Hi there, Welcome to my profile! <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="30">
 <a href="https://medium.com/@pratikjethva">
   <img align="left" alt="Pratik Jethva | Medium" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/medium.svg" /></a>
 <a href="https://www.linkedin.com/in/phjethva/">
