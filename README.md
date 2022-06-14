@@ -39,7 +39,7 @@ Hi, I am **Pratik Jethva**. I am a mobile app developer, Android, Flutter with 5
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 ## 🤝 Support
-<h4>If you like <img src="https://media.giphy.com/media/githXuqOW2ytB7OfAI/giphy.gif" width="30px"> what I do, you could be consider buying me a coffee <img src="https://media.giphy.com/media/eNwO33cDf7H60uqErv/giphy.gif" width="30"> here! Click below any of the links of your choice!</h4>
+<h4>If you like <img src="https://media.giphy.com/media/githXuqOW2ytB7OfAI/giphy.gif" width="30"> what I do, you could be consider buying me a coffee <img src="https://media.giphy.com/media/eNwO33cDf7H60uqErv/giphy.gif" width="30"> here! Click below any of the links of your choice!</h4>
 
 <p>
 <a href="https://www.paypal.com/paypalme/phjethva" target="_blank">
