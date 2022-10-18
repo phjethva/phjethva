@@ -12,7 +12,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/phjethva)
 
-Hi, I am **Pratik Jethva**. I am a mobile app developer, Android, Flutter with 5 years of experience from <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> <b>Ahmedabad, India</b>
+Hi, I am **Pratik Jethva**. I am a mobile app developer, Android, Flutter with 5 years of experience from <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> <b>Veraval, India</b>
 
 - 🌐 Checkout my website built in FlutterWeb here: https://phjethva.github.io/
 - 🔭 I’m currently working on Android & Flutter mobile app development.
@@ -22,7 +22,7 @@ Hi, I am **Pratik Jethva**. I am a mobile app developer, Android, Flutter with 5
 
 ## 🙏 My little contribution to **Atmanirbhar Bharat**
 
-<h2><a href="https://play.google.com/store/apps/details?id=io.pjetapps.vocalforlocalindia" target="_blank"> <img src="https://play-lh.googleusercontent.com/7gJP3lWo2dZppI-3kYSOm5mOL0AH2uO7JhvXCnESZkyLAEg4nIdUhyPcfRKEz6c4czA=s180-rw" width="45" style="vertical-align: middle"/> Vocal For Local - INDIA, Atmanirbhar Bharat : Android App on PlayStore</a></h2>
+<h3><a href="https://play.google.com/store/apps/details?id=io.pjetapps.vocalforlocalindia" target="_blank"> <img src="https://play-lh.googleusercontent.com/7gJP3lWo2dZppI-3kYSOm5mOL0AH2uO7JhvXCnESZkyLAEg4nIdUhyPcfRKEz6c4czA=s180-rw" width="45" style="vertical-align: middle"/> Vocal For Local - INDIA, Atmanirbhar Bharat : Android App on PlayStore</a></h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/phjethva/assets/master/images/playstoreapps/vocalforlocalindia/vocalforlocalindia_ss_01.JPEG" width="200"/>
