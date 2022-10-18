@@ -16,7 +16,7 @@ Hi, I am **Pratik Jethva**. I am a mobile app developer, Android, Flutter with 5
 
 - 🌐 Checkout my website built in FlutterWeb here: https://phjethva.github.io/
 - 🔭 I’m currently working on Android & Flutter mobile app development.
-- 🌱 I’m currently learning Go language for backend development.
+- 🌱 I’m currently learning Jetpack Compose, a modern toolkit for building native Android UI.
 - 💬 How to reach me: <img src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/skype.svg" width="15"> *phjethva*
 - 📫 Need an app? Mail me your requirements at: pratikjethva@zohomail.in
 
