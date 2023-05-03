@@ -1,5 +1,7 @@
 ### Hi there, Welcome to my profile! 😎
-<a href="https://www.linkedin.com/in/phjethva/">
+<a href="https://stackoverflow.com/users/13732318/pratik-jethva">
+  <img align="left" alt="Pratik Jethva | stack overflow" width="132px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/stackoverflow.svg" /></a>
+<a href="https://www.linkedin.com/in/phjethva">
   <img align="left" alt="Pratik Jethva | LinkedIN" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/linkedin.svg" /></a>
 <a href="https://twitter.com/PratikJethva">
   <img align="left" alt="Pratik Jethva | Twitter" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/twitter.svg" /></a>
