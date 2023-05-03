@@ -1,13 +1,11 @@
 ### Hi there, Welcome to my profile! 😎
-<a href="https://medium.com/@pratikjethva">
-  <img align="left" alt="Pratik Jethva | Medium" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/medium.svg" /></a>
 <a href="https://www.linkedin.com/in/phjethva/">
   <img align="left" alt="Pratik Jethva | LinkedIN" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/linkedin.svg" /></a>
 <a href="https://twitter.com/PratikJethva">
   <img align="left" alt="Pratik Jethva | Twitter" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/twitter.svg" /></a>
 <a href="https://www.instagram.com/pratikjethva">
   <img align="left" alt="Pratik Jethva | Instagram" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/instagram.svg" /></a>
-<a href="https://www.youtube.com/channel/UCXEwGsaOjSYgZqCHgowgv1w">
+<a href="https://www.youtube.com/@potterthecoder">
   <img align="left" alt="Pratik Jethva | Youtube" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/youtube.svg" /></a>
 
 ![Profile views](https://gpvc.arturio.dev/phjethva)
