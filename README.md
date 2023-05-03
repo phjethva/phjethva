@@ -12,13 +12,12 @@
 
 ![Profile views](https://gpvc.arturio.dev/phjethva)
 
-Hi, I am **Pratik Jethva**. I am a mobile app developer, Android, Flutter with 5 years of experience from <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> <b>Veraval, India</b>
+Hi, I am **Pratik Jethva**. I am a mobile app developer, Android with 5 years of experience from <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> <b>Veraval, India</b>
 
-- 🌐 Checkout my website built in FlutterWeb here: https://phjethva.github.io/
-- 🔭 I’m currently working on Android & Flutter mobile app development.
-- 🌱 I’m currently learning Jetpack Compose, a modern toolkit for building native Android UI.
+- 🌱 I’m currently working on Jetpack Compose, a modern toolkit for building native Android UI.
+- 🔭 I’m currently learning for Hibernate Framework, Spring Framework, Spring Boot & Microservices for Java backend development.
 - 💬 How to reach me: <img src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/skype.svg" width="15"> *phjethva*
-- 📫 Need an app? Mail me your requirements at: pratikjethva@zohomail.in
+- 📫 NEED APP? DM ME your requirements: pratikjethva@zohomail.in
 
 ## 🙏 My little contribution to **Atmanirbhar Bharat**
 
@@ -39,11 +38,5 @@ Hi, I am **Pratik Jethva**. I am a mobile app developer, Android, Flutter with 5
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 ## 🤝 Support
-<h4>If you like ❤ what I do, you could be consider buying me a coffee ☕ here! Click below any of the links of your choice!</h4>
-
-<p>
-<a href="https://www.paypal.com/paypalme/phjethva" target="_blank">
-    <img align="left" alt="Pratik Jethva | PayPal" width="42" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/paypal.svg"/></a>
-<a href="https://www.buymeacoffee.com/phjethva" target="_blank">
-    <img align="left" alt="Pratik Jethva | Buy Me A Coffee" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"/></a>
-</p>
+- <h4>If you learn something today, you could be consider following me by clicking 'FOLLOW' button above.</h4>
+- <h4>Don't forget to follow me on other SM platform. Links are on top.</h4>
