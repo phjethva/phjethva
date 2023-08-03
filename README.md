@@ -10,8 +10,6 @@
 <a href="https://www.youtube.com/@potterthecoder">
   <img align="left" alt="Pratik Jethva | Youtube" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/youtube.svg" /></a>
 
-![Profile views](https://gpvc.arturio.dev/phjethva)
-
 Hi, I am **Pratik Jethva**. I am an Android Developer with 5 years of experience from <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> <b>Ahmedabad, India</b>.
 
 - 🌱 I’m currently working on Jetpack Compose, a modern toolkit for building native Android apps.
