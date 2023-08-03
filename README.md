@@ -1,4 +1,4 @@
-### Hi there, Welcome to my profile! 😎
+### Hi there, Welcome to my portfolio! 😎
 <a href="https://stackoverflow.com/users/13732318/pratik-jethva">
   <img align="left" alt="Pratik Jethva | stack overflow" width="128px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/stackoverflow.svg" /></a>
 <a href="https://www.linkedin.com/in/phjethva">
@@ -10,12 +10,14 @@
 <a href="https://www.youtube.com/@potterthecoder">
   <img align="left" alt="Pratik Jethva | Youtube" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/youtube.svg" /></a>
 
-Hi, I am **Pratik Jethva**. I am an Android Developer with 5 years of experience from <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> <b>Ahmedabad, India</b>.
+<br/>
 
-- 🌱 I’m currently working on Jetpack Compose, a modern toolkit for building native Android apps.
-- 🔭 I’m currently learning Hibernate Framework, Spring Framework, Spring Boot & Microservices for Java backend development.
+#### Hi, I am **Pratik Jethva**. I am a Software Developer with 7 years of experience from  <b>India</b> <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> .
+
+- 🌱 I am an experienced Android Developer, proficient in Java and Kotlin language, with a strong understanding of mobile design and development. I create high-quality apps using Jetpack Compose for mobile/tablet that adopt multi-screen support and provide great user experiences.
+- 🔭 I also develop web applications using Java, Spring and Hibernate frameworks, Microservices.
 - 💬 How to reach me: <img src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/skype.svg" width="15"> *phjethva*
-- 📫 NEED APP? DM ME your requirements: pratikjethva@zohomail.in
+- 📫 NEED Mobile APP? NEED Web APP? DM ME @ pratikjethva@zohomail.in
 
 ## 🙏 My little contribution to **Atmanirbhar Bharat**
 
