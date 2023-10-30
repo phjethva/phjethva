@@ -21,7 +21,7 @@
 #### Hi, I am **Pratik Jethva**. I am a Software Developer with 7 years of experience from  <b>India</b> <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> .
 
 - 🌱 I am an experienced Android Developer, proficient in Java and Kotlin language, with a strong understanding of mobile design and development. I create high-quality apps using Jetpack Compose for mobile/tablet that adopt multi-screen support and provide great user experiences.
-- 🔭 I also develop web applications using Java, Spring and Hibernate frameworks, Microservices.
+- 🔭 I also develop web applications using Java, Hibernate & Spring frameworks, Spring Boot and Microservices.
 - 💬 How to reach me: <img src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/skype.svg" width="15"> *phjethva*
 - 📫 NEED Mobile APP? NEED Web APP? DM ME @ pratikjethva@zohomail.in
 
