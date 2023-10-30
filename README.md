@@ -1,14 +1,20 @@
-### Hi there, Welcome to my portfolio! 😎
+### Hi there, Welcome to my PORTFOLIO! 😎
+
 <a href="https://stackoverflow.com/users/13732318/pratik-jethva">
-  <img align="left" alt="Pratik Jethva | stack overflow" width="128px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/stackoverflow.svg" /></a>
+  <img alt="Pratik Jethva | Stack Overflow" src="https://img.shields.io/badge/-StackOverflow-222426?style=flat-square&logo=stack-overflow&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/phjethva">
-  <img align="left" alt="Pratik Jethva | LinkedIN" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/linkedin.svg" /></a>
+  <img alt="Pratik Jethva | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222426?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://twitter.com/PratikJethva">
-  <img align="left" alt="Pratik Jethva | Twitter" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/twitter.svg" /></a>
+  <img alt="Pratik Jethva | X (formerly Twitter)" src="https://img.shields.io/badge/-X (formerly Twitter)-222426?style=flat-square&logo=twitter&logoColor=white" />
+</a>
 <a href="https://www.instagram.com/pratikjethva">
-  <img align="left" alt="Pratik Jethva | Instagram" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/instagram.svg" /></a>
+  <img alt="Pratik Jethva | Instagram" src="https://img.shields.io/badge/-Instagram-222426?style=flat-square&logo=instagram&logoColor=white" />
+</a>
 <a href="https://www.youtube.com/@potterthecoder">
-  <img align="left" alt="Pratik Jethva | Youtube" width="22px" src="https://raw.githubusercontent.com/phjethva/phjethva/master/assets/youtube.svg" /></a>
+  <img alt="Pratik Jethva | YouTube" src="https://img.shields.io/badge/-YouTube-222426?style=flat-square&logo=youtube&logoColor=white" />
+</a>
 
 <br/>
 
@@ -33,10 +39,6 @@
 ## ✍️ I code with
 <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=java&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f89820?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" /> <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-073042?style=flat-square&logo=jetpack-compose&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" /> <img alt="Spring" src="https://img.shields.io/badge/-Spring-5b9e48?style=flat-square&logo=spring&logoColor=white" /> <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=flat-square&logo=hibernate&logoColor=white" />
 
-## 💻 Checkout my Flutter work:
-<a href="https://github.com/potterTheCoder" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-
 ## 🤝 Support
 - <h4>If you learn something today, you could be consider following me by clicking 'FOLLOW' button above.</h4>
-- <h4>Don't forget to follow me on other SM platform. Links are on top.</h4>
+- <h4>Don't forget to follow me on other Social Media platform. Links are on Top.</h4>
