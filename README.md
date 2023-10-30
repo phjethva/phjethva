@@ -22,7 +22,7 @@
 
 - 🌱 I am an experienced Android Developer, proficient in Java and Kotlin language, with a strong understanding of mobile design and development. I create high-quality apps using Jetpack Compose for mobile/tablet that adopt multi-screen support and provide great user experiences.
 - 🔭 I also develop web applications using Java, Hibernate & Spring frameworks, Spring Boot and Microservices.
-- 💬 Contack me here: <a href="skype:phjethva?chat"><img alt="Pratik Jethva | Skype" src="https://img.shields.io/badge/-@phjethva-00aff0?style=flat&logo=skype&logoColor=white" /></a>
+- 💬 Contact me here: <a href="skype:<phjethva>?chat"><img alt="Pratik Jethva | Skype" src="https://img.shields.io/badge/-phjethva-00aff0?style=flat&logo=skype&logoColor=white" /></a>
 - 📫 NEED Mobile APP? NEED Web APP? DM ME @ pratikjethva@zohomail.in
 
 ## 🙏 My little contribution to **Atmanirbhar Bharat**
