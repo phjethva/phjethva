@@ -20,10 +20,11 @@
 
 ### Hi, I'm **Pratik Jethva**. I'm a Software Developer with 7 years of experience. I'm from <b>India</b> <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> .
 
-- 🌱 I am an experienced Android Developer, proficient in Java and Kotlin language, with a strong understanding of mobile design and development. I create high-quality apps using Jetpack Compose for mobile/tablet that adopt multi-screen support and provide great user experiences.
-- 🔭 I also develop web applications using Java, Hibernate & Spring frameworks, Spring Boot and Microservices.
+- 🐵 I am an experienced Software Developer, proficient in Java and Kotlin language, with a strong understanding of application design and development.
+- 🌱 I develop web applications using Java, Hibernate & Spring frameworks, Spring Boot and Microservices.
+- 🌱 I also create high-quality apps using Jetpack Compose for mobile/tablet that adopt multi-screen support and provide great user experiences.
 - 💬 Contact me here: <a href="skype:<phjethva>?chat"><img alt="Pratik Jethva | Skype" src="https://img.shields.io/badge/-phjethva-00aff0?style=flat&logo=skype&logoColor=white" /></a>
-- 📫 NEED Mobile APP? NEED Web APP? DM ME @ pratikjethva@zohomail.in
+- 📫 NEED Web APP? NEED Mobile APP? DM ME @ pratikjethva@zohomail.in
 
 ## 🙏 My little contribution to **Atmanirbhar Bharat**
 
@@ -37,7 +38,7 @@
 </p>
 
 ## ✍️ I code with
-<img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f89820?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" /> <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-073042?style=flat-square&logo=jetpack-compose&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" /> <img alt="Spring" src="https://img.shields.io/badge/-Spring-5b9e48?style=flat-square&logo=spring&logoColor=white" /> <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=flat-square&logo=hibernate&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f89820?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=flat-square&logo=hibernate&logoColor=white" /> <img alt="Spring" src="https://img.shields.io/badge/-Spring-5b9e48?style=flat-square&logo=spring&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" /> <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-073042?style=flat-square&logo=jetpack-compose&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
 
 ## 🤝 Support
 - __If you learn something today, you could be consider following me by clicking 'FOLLOW' button above.__
