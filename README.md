@@ -23,8 +23,6 @@
 - 🐵 I am an experienced Software Developer, proficient in Java and Kotlin language, with a strong understanding of application design and development.
 - 🌱 I develop web applications using Java, Hibernate & Spring frameworks, Spring Boot and Microservices.
 - 🌱 I also create high-quality apps using Jetpack Compose for mobile/tablet that adopt multi-screen support and provide great user experiences.
-- 💬 Contact me here: <a href="skype:<phjethva>?chat"><img alt="Pratik Jethva | Skype" src="https://img.shields.io/badge/-phjethva-00aff0?style=flat&logo=skype&logoColor=white" /></a>
-- 📫 NEED Web APP? NEED Mobile APP? DM ME @ pratikjethva@zohomail.in
 
 ## ✍️ I code with
 <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f89820?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=flat-square&logo=hibernate&logoColor=white" /> <img alt="Spring Framework" src="https://img.shields.io/badge/-Spring%20Framework-5b9e48?style=flat-square&logo=spring&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-5b9e48?style=flat-square&logo=spring-boot&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" /> <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-073042?style=flat-square&logo=jetpack-compose&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
