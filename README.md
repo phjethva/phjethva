@@ -7,7 +7,7 @@
   <img alt="Pratik Jethva | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222426?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/PratikJethva">
-  <img alt="Pratik Jethva | X (formerly Twitter)" src="https://img.shields.io/badge/-X (formerly Twitter)-222426?style=flat&logo=twitter&logoColor=white" />
+  <img alt="Pratik Jethva | X (formerly Twitter)" src="https://img.shields.io/badge/-X (formerly Twitter)-222426?style=flat&logo=x&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/pratikjethva">
   <img alt="Pratik Jethva | Instagram" src="https://img.shields.io/badge/-Instagram-222426?style=flat&logo=instagram&logoColor=white" />
