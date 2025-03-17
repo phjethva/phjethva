@@ -21,7 +21,6 @@
 
 | 📁 Introduction: |
 | :--- |
-|<img width=200/>|<img width=500/>|
 
 - 💻 As a software developer with 5+ years of experience, I specialize in designing and developing scalable, efficient, and reliable software solutions.
 
@@ -31,7 +30,6 @@
 
 | 📁 Technical Expertise: | |
 | :--- | :--- |
-|<img width=200/>|<img width=500/>|
 | _Languages :_ | __Java, Kotlin__ |
 | _Web Technologies :_ | __RESTful APIs, Microservices__ |
 | _Mobile Technologies :_ | __Android SDK, Hilt, Retrofit, Room__ |
