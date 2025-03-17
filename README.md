@@ -31,7 +31,7 @@
 
 | | |
 | :--- | :--- |
-| Languages | Java, Kotlin |
+| _Languages_ | *Java, Kotlin* |
 | Web Technologies | RESTful APIs, Microservices |
 | Mobile Technologies | Android SDK, Hilt, Retrofit, Room |
 | Frameworks | Hibernate, Spring Boot, Jetpack Compose |
