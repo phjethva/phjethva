@@ -19,7 +19,8 @@
 
 ### Hi, I'm **Pratik Jethva**. I'm a Software Developer. I'm from <b>India</b> <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> .
 
-📁 Introduction:
+| 📁 Introduction: | |
+| :--- | :--- |
 
 - 💻 As a software developer with 5+ years of experience, I specialize in designing and developing scalable, efficient, and reliable software solutions.
 
@@ -27,22 +28,20 @@
 
 - 💪 My key strengths include in-depth knowledge of Java and Spring ecosystems, problem-solving skills, collaboration, adaptability, and delivering high-quality solutions.
 
-📁 Technical Expertise:
-
-| | |
+| 📁 Technical Expertise: | |
 | :--- | :--- |
-| _Languages_ | *Java, Kotlin* |
-| Web Technologies | RESTful APIs, Microservices |
-| Mobile Technologies | Android SDK, Hilt, Retrofit, Room |
-| Frameworks | Hibernate, Spring Boot, Jetpack Compose |
-| Databases | MySQL, PostgreSQL, MongoDB, SQLite, Redis |
-| Messaging System | Apache Kafka |
-| Cloud Computing | AWS Lambda |
-| Containerization & Orchestration | Docker, Kubernetes |
-| Cloud Platforms | AWS, Google Cloud |
-| Build Tools | Maven, Gradle |
-| IDE | IntelliJ, Android Studio |
-| VCS | GitHub, Bitbucket |
+| _Languages :_ | __Java, Kotlin__ |
+| _Web Technologies :_ | __RESTful APIs, Microservices__ |
+| _Mobile Technologies :_ | __Android SDK, Hilt, Retrofit, Room__ |
+| _Frameworks :_ | __Hibernate, Spring Boot, Jetpack Compose__ |
+| _Databases :_ | __MySQL, PostgreSQL, MongoDB, SQLite, Redis__ |
+| _Messaging System :_ | __Apache Kafka__ |
+| _Cloud Computing :_ | __AWS Lambda__ |
+| _Containerization & Orchestration :_ | __Docker, Kubernetes__ |
+| _Cloud Platforms :_ | __AWS, Google Cloud__ |
+| _Build Tools :_ | __Maven, Gradle__ |
+| _IDE :_ | __IntelliJ, Android Studio__ |
+| _VCS :_ | __GitHub, Bitbucket__ |
 
 ## ✍️ I code with
 <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f89820?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=flat-square&logo=hibernate&logoColor=white" /> <img alt="Spring Framework" src="https://img.shields.io/badge/-Spring%20Framework-5b9e48?style=flat-square&logo=spring&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-5b9e48?style=flat-square&logo=spring-boot&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" /> <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-073042?style=flat-square&logo=jetpack-compose&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
