@@ -29,19 +29,20 @@
 
 📁 Technical Expertise:
 
-
-- 📌 Languages						: Java, Kotlin
-- 📌 Web Technologies					: RESTful APIs, Microservices
-- 📌 Mobile Technologies				: Android SDK, Hilt, Retrofit, Room
-- 📌 Frameworks						: Hibernate, Spring Boot, Jetpack Compose
-- 📌 Databases						: MySQL, PostgreSQL, MongoDB, SQLite, Redis		
-- 📌 Messaging System					: Apache Kafka
-- 📌 Cloud Computing					: AWS Lambda
-- 📌 Containerization & Orchestration	: Docker, Kubernetes
-- 📌 Cloud Platforms					: AWS, Google Cloud
-- 📌 Build Tools						: Maven, Gradle
-- 📌 IDE								: IntelliJ, Android Studio	
-- 📌 VCS								: GitHub, Bitbucket
+| | |
+| :--- | :--- |
+| Languages | Java, Kotlin |
+| Web Technologies | RESTful APIs, Microservices |
+| Mobile Technologies | Android SDK, Hilt, Retrofit, Room |
+| Frameworks | Hibernate, Spring Boot, Jetpack Compose |
+| Databases | MySQL, PostgreSQL, MongoDB, SQLite, Redis |
+| Messaging System | Apache Kafka |
+| Cloud Computing | AWS Lambda |
+| Containerization & Orchestration | Docker, Kubernetes |
+| Cloud Platforms | AWS, Google Cloud |
+| Build Tools | Maven, Gradle |
+| IDE | IntelliJ, Android Studio |
+| VCS | GitHub, Bitbucket |
 
 ## ✍️ I code with
 <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f89820?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=flat-square&logo=hibernate&logoColor=white" /> <img alt="Spring Framework" src="https://img.shields.io/badge/-Spring%20Framework-5b9e48?style=flat-square&logo=spring&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-5b9e48?style=flat-square&logo=spring-boot&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" /> <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-073042?style=flat-square&logo=jetpack-compose&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
