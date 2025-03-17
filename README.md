@@ -1,5 +1,8 @@
 # Hi there, Welcome to my PORTFOLIO! 😎
 
+<a href="https://medium.com/@pratikjethva">
+  <img alt="Pratik Jethva | Medium" src="https://img.shields.io/badge/-Medium-222426?style=flat&logo=medium&logoColor=white" />
+</a>
 <a href="https://stackoverflow.com/users/13732318/pratik-jethva">
   <img alt="Pratik Jethva | Stack Overflow" src="https://img.shields.io/badge/-StackOverflow-222426?style=flat&logo=stack-overflow&logoColor=white" />
 </a>
