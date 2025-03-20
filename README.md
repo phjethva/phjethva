@@ -22,7 +22,7 @@
 
 ### Hi, I'm **Pratik Jethva**. I'm a Software Developer. I'm from <b>India</b> <img src="https://cdn-icons-png.flaticon.com/24/321/321238.png" width="15"/> .
 
-| `📁 Introduction:                                                                                                                ` |
+| `📁 Introduction:                                                                                                          ` |
 | :--- |
 
 - 💻 As a software developer with 5+ years of experience, I specialize in designing and developing scalable, efficient, and reliable software solutions.
