@@ -34,7 +34,7 @@
 
 - 💪 My key strengths include in-depth knowledge of Java and Spring ecosystems, problem-solving skills, collaboration, adaptability, and delivering high-quality solutions.
 
-| `📁 Technical Expertise:          ` | `                                                                              ` |
+| `📁 Technical Expertise:          ` | `                                                                             ` |
 | :--- | :--- |
 | _Languages :_ | __Java, Kotlin__ |
 | _Web Technologies :_ | __RESTful APIs, Microservices__ |
@@ -49,7 +49,7 @@
 | _IDE :_ | __IntelliJ, Android Studio__ |
 | _VCS :_ | __GitHub, Bitbucket__ |
 
-| `📁 Checkout My Latest Article on Medium:                                                        ` | `               ` |
+| `📁 Checkout My Latest Article on Medium:                                                       ` | `                ` |
 | :--- | :--- |
 | [**Mastering Exception Handling in Spring Boot**](https://medium.com/@pratikjethva/mastering-exception-handling-in-spring-boot-6418d3e454c1)<br/>_A Deep Dive into User Flow Management RESTful APIs._<br/><sub>Published on Mar 7, 2025 · 7 min read</sub> | <img src="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*eeljrp4VlyuhbHMPuBXdYw.jpeg" alt="Mastering Exception Handling in Spring Boot — A Deep Dive into User Flow Management RESTful APIs" align="center" style="height: 120px;"> |
 
