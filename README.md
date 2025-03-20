@@ -49,6 +49,10 @@
 ## ✍️ I code with
 <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-f89820?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-bcae79?style=flat-square&logo=hibernate&logoColor=white" /> <img alt="Spring Framework" src="https://img.shields.io/badge/-Spring%20Framework-5b9e48?style=flat-square&logo=spring&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-5b9e48?style=flat-square&logo=spring-boot&logoColor=white" /> <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" /> <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-073042?style=flat-square&logo=jetpack-compose&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
 
+| 📁 Checkout My Latest Article on Medium: ||
+| :--- | :--- |
+| [**Mastering Exception Handling in Spring Boot**](https://medium.com/@pratikjethva/mastering-exception-handling-in-spring-boot-6418d3e454c1)<br/>_A Deep Dive into User Flow Management RESTful APIs._<br/><sub>Published on Mar 7, 2025 · 7 min read</sub> | <img src="https://miro.medium.com/v2/resize:fit:1000/format:webp/1*eeljrp4VlyuhbHMPuBXdYw.jpeg" alt="Mastering Exception Handling in Spring Boot — A Deep Dive into User Flow Management RESTful APIs" align="center" style="height: 120px;"> |
+
 ## 🤝 Support
 - __If you learn something today, you could be consider following me by clicking 'FOLLOW' button above.__
 - __Don't forget to follow me on other Social Media platforms. Links are on Top.__
