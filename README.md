@@ -35,8 +35,8 @@
 - 💪 My key strengths include in-depth knowledge of Java and Spring ecosystems, problem-solving skills, collaboration, adaptability, and delivering high-quality solutions.
 
 - 🌐 Checkout my current (under development) project __[UniPassGen](https://d2d6di4yb00di7.cloudfront.net)__.
-    - __Frontend:__ Angular 17, live @ Cloudfront & S3.
-    - __Backend:__ Spring Boot with Kotlin and Gradle, live @ AWS Lambda.
+    - __Frontend:__ Angular 17 | Hosted On: Cloudfront & S3.
+    - __Backend:__ Spring Boot with Kotlin and Gradle | Hosted On:  AWS Lambda.
 
 | `📁 Technical Expertise:          ` | `                                                                            ` |
 | :--- | :--- |
